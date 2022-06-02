@@ -1,0 +1,47 @@
+.fcontainer {
+
+    background-color: lightsalmon;
+    margin:50px;
+    padding: 20px 20px;  
+    display: flex; 
+    justify-content: center;
+}
+.scontainer {
+    
+    background-color: rgb(173, 103, 75);
+    padding-left : 10px ;
+    margin:50px;
+    padding: 20px 20px;  
+    display: flex; 
+    justify-content: center;
+}
+.tcontainer{
+    
+    background-color: rgb(184, 96, 61);
+    padding-left : 10px ;
+    margin:50px;
+    padding: 20px 20px;  
+    display: flex; 
+    justify-content: center;
+    
+}
+img {
+    background-color:lightgray;
+    height: 200px;
+    width:200px;
+    padding-left : 10px ;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px 20px;   
+}
+h1 {
+    text-align: center;
+    color: lightgrey;
+}
+.main{
+    background-color:lightcyan;
+    margin: auto;
+    display: flexbox;
+    border: solid;
+    border-color:lightblue;
+}
